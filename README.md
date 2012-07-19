@@ -1,2 +1,6 @@
-DropBox-Sync-Joomla-Extension
+DropBox Sync Joomla Extension
 =============================
+
+Requirements
+
+Install
