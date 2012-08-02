@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <fieldset name="basic">
+        <field name="dropbox_api_key" type="text" default="" label="App key" description="Enter your dropbox api key" size="40" />
+        <field name="dropbox_api_secret" type="text" default="" label="App secret" description="Enter your dropbox api secret" size="40" />
+        <field name="dropbox_folder" type="text" default="images/dropbox" label="Target folder" description="Target folder, where files saved" size="30" />
+        <field type="spacer" name="myspacer" label="Advanced parameters" />
+        <field name="dropbox_folder_filter" type="text" default="" label="Comma separated list of folders" description="" size="30" />
+        <field name="dropbox_token" type="hidden" default="" />
+    </fieldset>
+</config>

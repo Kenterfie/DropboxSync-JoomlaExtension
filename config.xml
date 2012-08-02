@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension type="package" version="1.6">
+    <name>DropBox Sync</name>
+    <packagename>dropbox</packagename>
+    <version>1.6.0</version>
+    <url>http://www.joomla.org</url>
+    <packager>Wh00t</packager>
+    <packagerurl>http://www.kenterfie.de</packagerurl>
+    <description></description>
+    <files folder="packages">
+        <file type="component" id="com_dropbox" >com_dropbox.zip</file>
+        <file type="plugin" id="plg_system_dropbox" group="system">plg_system_dropbox.zip</file>
+    </files>
+</extension>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="1.7" type="plugin" client="site" method="upgrade" group="system">
+    <name>System - DropBox Plugin</name>
+    <author>Stefan Reusch</author>
+    <creationDate>19/07/2012</creationDate>
+    <copyright>Copyright © 2012, Stefan Reusch, All Rights Reserved.</copyright>
+    <authorEmail>kenterfie@kenterfie.de</authorEmail>
+    <authorUrl>http://www.kenterfie.de</authorUrl>
+    <version>1.0</version>
+    <description></description>
+    <files>
+        <filename plugin="dropboxplugin">dropboxplugin.php</filename>
+    </files>    
+</extension>
