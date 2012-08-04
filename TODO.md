@@ -3,3 +3,4 @@
 * Better UI
 * Add Translations
 * Clean Code
+* Add some error handler
